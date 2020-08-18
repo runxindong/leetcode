@@ -36,6 +36,5 @@ int main(){
 	for (it = result.begin(); it != result.end(); it++){
 		cout << *it << endl;
 	}
-
 	return 0;
 }
